@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+fork自[yansu](https://github.com/suyan/suyan.github.io)
 
 ### 安装说明
 

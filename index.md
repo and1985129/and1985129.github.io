@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome
+title: 记录 | 分享 | 自省
 ---
 
 ## 对博客的理解
@@ -13,6 +13,6 @@ title: Welcome
 
 ## 博客平台
 
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
+这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，后由[yansu](https://github.com/suyan/suyan.github.io)修改，感谢他们。
 
-我博客的源码托管在[Github](https://github.com/suyan/suyan.github.io)上，如果有任何改进意见，欢迎讨论。
+我博客的源码托管在[Github](https://github.com/and1985129/and1985129.github.io)上，如果有任何改进意见，欢迎讨论。

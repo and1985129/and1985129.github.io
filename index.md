@@ -17,3 +17,5 @@ title: 记录 | 分享 | 自省 | By 科科香
 ## 最后
 
 2016-3-12 我们家的小馒头来到世上，祝愿小馒头健康平安成长。
+
+![image](https://raw.githubusercontent.com/and1985129/Misc/master/Pic/mantou.jpg)

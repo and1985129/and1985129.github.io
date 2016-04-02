@@ -19,14 +19,14 @@ url: http://and1985129.github.io
 # rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://raw.githubusercontent.com/and1985129/Misc/master/Images/avatar.png
+favicon: https://raw.githubusercontent.com/and1985129/Misc/master/Images/favicon.ico
 
 # google analytics 设置
-ga:
-  id: UA-54767140-1
-  url: yansu.org
+# ga:
+#   id: UA-54767140-1
+#   url: yansu.org
 
 # disqus 设置
-disqus:
-  shortname: suyan-zh
+# disqus:
+#   shortname: suyan-zh

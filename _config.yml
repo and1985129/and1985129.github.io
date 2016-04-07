@@ -1,32 +1,39 @@
-permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-pygments: true
+# Site settings
+title: 科科香的博客
+email: bryant_w@hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  科科香的博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://and1985129.github.io" # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
 
-kramdown:
-  input: GFM
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
 
-# 作者信息
-author: 
-  name: 科科香
-  email: bryant_w@hotmail.com
-  link: http://and1985129.github.io
-  github: http://github.com/and1985129
-
-# 站点信息
-title: 科科香的博客 
-description: 科科香的博客
-url: http://and1985129.github.io
-# rss_url: /pages/atom.xml
+# Social account
+# twitter: masonsuyan
+weibo: and1985129
+github: and1985129
+# codepen:  username
+# dribbble: username
 
 # avatar头像及Favicon
 avatar: https://raw.githubusercontent.com/and1985129/Misc/master/Images/avatar.png
 favicon: https://raw.githubusercontent.com/and1985129/Misc/master/Images/favicon.ico
+
+# disqus 设置
+disqus:
+  shortname: kekexiang
 
 # google analytics 设置
 # ga:
 #   id: UA-54767140-1
 #   url: yansu.org
 
-# disqus 设置
-# disqus:
-#   shortname: suyan-zh
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed

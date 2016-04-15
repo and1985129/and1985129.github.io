@@ -27,9 +27,9 @@ disqus:
   shortname: kekexiang
 
 # google analytics 设置
-# ga:
-#   id: UA-54767140-1
-#   url: yansu.org
+ ga:
+   id: UA-76154589-1
+   url: and1985129.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html

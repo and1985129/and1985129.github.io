@@ -17,7 +17,7 @@ SAP Labs工程师
 
 ## Hybris介绍
 
-![image](http://7xsqph.com2.z0.glb.clouddn.com/hybris1.jpg) ![image](http://7xsqph.com2.z0.glb.clouddn.com/hybris2.jpg)
+![image](http://7xsqph.com2.z0.glb.clouddn.com/hybris1.jpg)
 
 blablabla
 

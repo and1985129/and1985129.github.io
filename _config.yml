@@ -1,8 +1,7 @@
 # Site settings
 title: 科科香的博客
 email: bryant_w@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  科科香的博客
+description: 科科香的博客 SAP IoT Hybris
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://and1985129.github.io" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
@@ -27,9 +26,9 @@ disqus:
   shortname: kekexiang
 
 # google analytics 设置
- ga:
-   id: UA-76154589-1
-   url: and1985129.github.io
+ga:
+  id: UA-76154589-1
+  url: and1985129.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html

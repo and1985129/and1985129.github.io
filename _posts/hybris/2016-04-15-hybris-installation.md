@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 个人电脑上安装Hybris
-category: 工具
+category: Hybris
 tags: Hybris
 description: 个人电脑上安装Hybris
 ---
@@ -16,6 +16,8 @@ SAP Labs工程师
 **转载请注明出处**
 
 ## Hybris介绍
+
+![image](http://7xsqph.com2.z0.glb.clouddn.com/hybris1.jpg) ![image](http://7xsqph.com2.z0.glb.clouddn.com/hybris2.jpg)
 
 blablabla
 
